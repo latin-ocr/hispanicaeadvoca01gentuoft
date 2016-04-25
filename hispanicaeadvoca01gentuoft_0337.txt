@@ -1,0 +1,50 @@
+ERRATA IN THE EDITION OF 1661.
+
+PAdE LINE FOR READ
+vi 7-8 judiciique judiciique paenitebat
+xvi 12 modum metum ’
+7 14 ecperunt ceperunt
+8 20 Molin RIolina
+9 34 rescuti restitui
+10 1 dici diei
+12 10 qui cuius
+1 3 35 perductione perductionem
+22 19 qui qui corpus in itinere defuncti per
+vicos aut oppidum
+24 33 belli Belli
+33 3 mat-9. br. per.
+46 6 & in ullam et in nullam or nec in ullam
+46 11 hac haec
+50 22-23 eripuerunt eripuerant
+52 29 no ne
+56 12 etia etiam
+57 10 contrariam communem contrariam communi
+59 8 victigal vectigal ,
+62 17 μαλαπράως μάλα πραως
+62 35 εξάκθυσαι ἐξᾳκοῦσαι
+62 35 νοφον (ροθον
+63 20 θαλάης θαλάσσης
+63 30 obesessi obsessi
+69 13—14 posuit potuit
+71 20 Legatos ligatos Ι
+79 21 φυλαλοντών φυλασσο Vmor
+82 4 lignamina ligamina
+83 2 tem tunc
+83 35 Hispanit Hispani
+84 8 il as illas
+86 5 marq. Straccha Stracchae
+92 29 ibibem ibidem
+103 28 κατακοῦέ μαλακῶν
+103 31 Novellam . Novellae l
+103 31 Ἀλλωὸαπος Ἀλλοὸαπος
+120 22 rerritorio territorio
+127 23 omibus omnibus
+129 18 iratus iuratus
+1 30 29 ostat obstat
+136 26 & iit
+142 24—25 m 1n eo 1n eo
+143 18 duo . duobus
+146 1 an gustare angustare
+
+273
+

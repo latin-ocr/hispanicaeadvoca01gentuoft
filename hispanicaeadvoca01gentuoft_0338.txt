@@ -1,0 +1,54 @@
+274
+
+PAGE LINE
+163 8
+175 23
+178 22
+190 5
+191 26—27
+197 19
+212 10—11
+213 25
+213 29
+219 25
+232 4
+252 7
+
+257 24
+
+Errata in the Edition of 1661
+
+FOR
+scilitet
+contraire
+bostro
+apellatur
+sexum]
+judicale
+Sc procedat
+tentstann
+qui
+relia
+ex br. re.
+pertinent
+quan]
+
+READ
+
+scilicet
+contrarie
+nostro
+appellatur
+sextum]
+judiciale
+
+ut procedat
+tenuram]
+quis
+
+reali
+
+ex pen re.
+pertinebant
+quen]
+
